@@ -5,7 +5,7 @@ A small libary to get emojis to projects faster!
 #### Examples
 
 ```js
-const emoji = require("../lib/emojis");
+const emoji = require("emojis.js");
 
 function example() {
   console.log(emoji.happy1);
