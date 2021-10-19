@@ -1,0 +1,31 @@
+{
+  "name": "emojis.js",
+  "version": "0.0.1",
+  "description": "A small libary to get emojis to projects faster!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassev2005/emojis.js.git"
+  },
+  "keywords": [
+    "emoji",
+    "emojis",
+    "js"
+  ],
+  "author": "LasseV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassev2005/emojis.js/issues"
+  },
+  "homepage": "https://github.com/lassev2005/emojis.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
