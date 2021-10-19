@@ -1,6 +1,6 @@
 {
   "name": "emojis.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small libary to get emojis to projects faster!",
   "main": "index.js",
   "directories": {

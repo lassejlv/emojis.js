@@ -1,2 +1,2 @@
 // all the emojis
-module.exports.emoji = require("./lib/emojis");
+module.exports = require("./lib/emojis");
